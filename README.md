@@ -8,24 +8,24 @@ NFTs were created using Dall-E Ai from Open AI and deployed to IPFS.
 
 ScreenShots   #CryptoDoor Game Website:
 
-![]('./CryptoDoorDapp/src/assets/screenshots/screenshot2.png')
+![](./CryptoDoorDapp/src/assets/screenshots/screenshot2.png)
 
-![]('./CryptoDoorDapp/src/assets/screenshots/screenshot3.png')
+![](./CryptoDoorDapp/src/assets/screenshots/screenshot3.png)
 
-![]('./CryptoDoorDapp/src/assets/screenshots/screenshot4.png')
+![](./CryptoDoorDapp/src/assets/screenshots/screenshot4.png)
 
-![]('./CryptoDoorDapp/src/assets/screenshots/mint.png')
+![](./CryptoDoorDapp/src/assets/screenshots/mint.png)
 
-![]('./CryptoDoorDapp/src/assets/screenshots/AfterMint.PNG')
+![](./CryptoDoorDapp/src/assets/screenshots/AfterMint.PNG)
 
 ## Installation
 
 If you are cloning the project then run this first
 
 ```sh
-git clone https://github.com/Aradhya1905/NFT-Minting-DApp.git
+https://github.com/Aradhya1905/CryptoDoor.git
 ```
-Make sure you have node.js ,then run "npm install" in Frontend Folder
+Make sure you have node.js ,then run "npm install" in CryptoDoorDapp folder.
 
 ```sh
 npm install
@@ -50,4 +50,4 @@ npx hardhat test
 ``` 
 Smart contract is a ERC1155 contract deployed to Polygon Testnet network.
 
-# App is not mobile responsive, anybody is free to use and modify the code ,Game was built as my first project while learning React.Render Game function can be refactored further.
+#### App is not mobile responsive, anybody is free to use and modify the code ,Game was built as my first project while learning React.Render Game function can be refactored further.
