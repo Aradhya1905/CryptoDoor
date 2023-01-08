@@ -50,4 +50,4 @@ npx hardhat test
 ``` 
 Smart contract is a ERC1155 contract deployed to Polygon Testnet network.
 
-#### App is not mobile responsive, anybody is free to use and modify the code ,Game was built as my first project while learning React.Render Game function can be refactored further.
+
